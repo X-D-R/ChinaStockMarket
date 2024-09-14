@@ -16,9 +16,8 @@
 После были вычислены Value at risk и Conditional value at risk с уровнем значимости 95%. Основываясь на этих данных, были отобраны оптимальные по данным характеристикам активы соответственно (красный - VaR, синий - CVaR).
 
 ### Файлы
-outputNew.xlsx - таблица с исходными данными (цены за 2016)
-outputNewReturns.xlsx - таблица с доходностями
-outputNewEffRisk.xlsx - таблица с эффективностями и рисками
-outputNewEffRisk.xlsx - только Парето оптимальные акции
-outputReturnsNewVaRResult.xlsx - значения VaR
-outputReturnsNewCVaRResult.xlsx - значения CVaR
+- outputNew.xlsx - таблица с исходными данными (цены за 2016)
+- outputNewReturns.xlsx - таблица с доходностями
+- outputNewEffRisk.xlsx - таблица с эффективностями и рисками
+- outputReturnsNewVaRResult.xlsx - значения VaR
+- outputReturnsNewCVaRResult.xlsx - значения CVaR
